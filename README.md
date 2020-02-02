@@ -1,19 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+## Reference
+https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query
 
 * Ruby version
-
-* System dependencies
+* 2.6
 
 * Configuration
 
 * Database creation
-
-* Database initialization
+* MySql
 
 * How to run the test suite
 
